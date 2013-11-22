@@ -45,7 +45,7 @@
 	    		<div id="konsumativi">
 	    	        <a href="konsumativi.php">
 	    	        <br>
-	       			<img src="images/konsumativi.jpg" alt="konsumativi" width="360"><br>Консумативи</a>
+	       			<img src="images/konsumativi.jpg" alt="konssumativi" width="360"><br>Консумативи</a>
 	    		</div>
 	  		</td>
 	 	</tr>
